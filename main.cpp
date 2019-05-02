@@ -2,6 +2,6 @@
 
 int main ()
 {
-    std::cout<<"Pruba"<<std::endl;
+    std::cout<<"Rama"<<std::endl;
     return 0;
 }
