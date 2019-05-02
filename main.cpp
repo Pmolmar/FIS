@@ -2,6 +2,6 @@
 
 int main ()
 {
-    std::cout<<"Rama"<<std::endl;
+    std::cout<<"Me cago en dios."<<std::endl;
     return 0;
 }
